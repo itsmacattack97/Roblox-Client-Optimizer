@@ -45,7 +45,6 @@
   "FFlagHumanoidParallelUseManager4": true,
   "FFlagFastGPULightCulling3": true,
   "FFlagDecalBackfaceCulling": true,
-  "FFlagRenderGpuTextureCompressor": true,
   "FFlagGpuGeometryManager3": true,
   "FFlagRenderGpuTextureCompressor": true,
   "FFlagGraphicsTextureCopy": true,
