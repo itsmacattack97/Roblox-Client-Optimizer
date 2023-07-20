@@ -21,7 +21,7 @@
   "DFIntUserIdPlayerNameCacheSize": 33554432,
   "DFIntUserIdPlayerNameLifetimeSeconds": 86400,
   "DFIntTaskSchedulerTargetFps": 500,
-  "FFlagEnableQuickGameLaunch": false,
+  "FFlagEnableQuickGameLaunch": true,
   "FFlagHandleAltEnterFullscreenManually": false,
   "FFlagDisableNewIGMinDUA": true,
   "FFlagEnableInGameMenuV3": false,
